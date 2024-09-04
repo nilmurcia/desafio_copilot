@@ -2,7 +2,7 @@
 
 Esse repositorio esta sendo criado para entregar projeto DIO.
 
-#Insights sobre a possibilidade de utilização de IA
+# Insights sobre a possibilidade de utilização de IA
 
 Usar o reconhecimento de imagens para avaçisção de Fotografia de sucesso no PDV.
 
